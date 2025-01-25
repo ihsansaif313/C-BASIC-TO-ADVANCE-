@@ -1,0 +1,71 @@
+we are planning C++ from basic to  DSA in 3 days. Any one want to learn can join at any time according to this timetable.
+GOOGLE MEET LINK WILL BE SHARE AT WHATSAPP GROUP
+WHATSAPP GROUP LINK : https://chat.whatsapp.com/DV8WXFqNS30IlfTBfPipIe 
+
+SATURDAY
+Day 1: Basics and Control Structures
+
+1. Session 1 : Introduction to C++
+   - Basics of C++ programming
+   - Setting up the development environment
+   - Simple input/output operations
+   - Exercise: Write a program that takes two numbers as input and prints their sum.
+
+2. Session 2 : Control Structures
+   - Conditional statements (if, else, switch)
+   - Looping constructs (for, while, do-while)
+   - Exercise: Write a program that prints all the even numbers from 1 to 50 using a for loop.
+
+3. Session 3 : Functions and Scope
+   - Function declaration and definition
+   - Function parameters and return values
+   - Variable scope and lifetime
+   - Exercise: Write a function that takes an integer as input and returns its factorial.
+
+Day 2: Advanced Concepts and Data Structures
+
+1. Session 4: Pointers and Arrays
+   - Introduction to pointers
+   - Arrays and pointer arithmetic
+   - Dynamic memory allocation
+   - Exercise: Write a program that swaps the values of two integers using pointers.
+
+2. Session 5 : Object-Oriented Programming
+   - Classes and objects
+   - Constructors and destructors
+   - Inheritance and polymorphism
+   - Exercise: Create a class called Student with properties for name, age, and grade. Write a method to display student details.
+
+3. Session 6 : Data Structures
+   - Arrays and linked lists
+   - Stacks and queues
+   - Exercise: Implement a singly linked list with methods to insert, delete, and display elements.
+
+Day 3: Algorithms, Recursion, and Complexity
+
+1. Session 7 : Sorting and Searching Algorithms
+   - Basic sorting algorithms (bubble sort, selection sort, insertion sort)
+   - Basic searching algorithms (linear search, binary search)
+   - Exercise: Write a program that sorts an array of integers using the bubble sort algorithm.
+
+2. Session 8 : Recursion and Dynamic Programming
+   - Concept of recursion
+   - Examples of recursive functions
+   - Introduction to dynamic programming
+   - Exercise: Write a recursive function to compute the nth Fibonacci number.
+
+3. Session 9 : Trees and Graphs
+   - Binary trees and tree traversal
+   - Binary search trees (BST)
+   - Graph traversal algorithms (BFS, DFS)
+   - Exercise: Write a program to perform in-order traversal of a binary tree.
+
+4. Session 10 : Complexity Analysis and Review
+   - Time and space complexity
+   - Big O notation
+   - Exercise: Analyze the time complexity of the bubble sort algorithm and explain it.
+
+Final Session: Project Presentation
+
+- Session 11 
+   - Students present their final projects
